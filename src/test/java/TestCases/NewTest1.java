@@ -15,5 +15,11 @@ public class NewTest1 {
 		  System.out.println("method Added From GitHub Site");
 	  }
 
+	@Test
+	  public void methodAddedFromEclipse() 
+	  {
+		  System.out.println("method Added From Eclipse");
+	  }
+
 	
 }
