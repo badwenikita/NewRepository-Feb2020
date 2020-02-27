@@ -14,6 +14,6 @@ public class NewTest1 {
 	  {
 		  System.out.println("method Added From GitHub Site");
 	  }
-}
+
 	
 }
