@@ -8,4 +8,12 @@ public class NewTest1 {
 	  {
 		  System.out.println("Practice class created on Feb 2020");
 	  }
+	
+	@Test
+	  public void methodAddedFromGitHubSite() 
+	  {
+		  System.out.println("method Added From GitHub Site");
+	  }
+}
+	
 }
